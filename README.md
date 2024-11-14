@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxnx-hn&label=Profile%20views&color=0e75b6&style=flat" alt="lxnx-hn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lxnx-hn" alt="lxnx-hn" /></a> </p>
-
 - 💬 Ask me about **C++,Python**
 
 - 📫 How to reach me **lxnx.kiki@gmail.com**
