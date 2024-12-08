@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en" alt="lxnx-hn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxnx-hn&" alt="lxnx-hn" /></p>
+
+<!-- 3D 잔디 이미지 -->
+![](./profile-3d-contrib/profile-gitblock.svg)
+
