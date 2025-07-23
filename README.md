@@ -26,6 +26,9 @@ Always up for a new challenge and creative journey.
   <a href="https://developer.apple.com/documentation" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
   </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+</a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
@@ -44,10 +47,10 @@ Always up for a new challenge and creative journey.
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
+    <br>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>
   </a>
-  <br>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   </a>
@@ -75,10 +78,10 @@ Always up for a new challenge and creative journey.
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
+    <br>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
-  <br>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
   </a>
@@ -99,9 +102,6 @@ Always up for a new challenge and creative journey.
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="premierepro" width="40" height="40"/>
