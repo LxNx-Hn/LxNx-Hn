@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxnx-hn&label=Profile%20views&color=0e75b6&style=flat" alt="lxnx-hn" /> </p>
 
-- 💬 Ask me about **C++,Python,LLM**
+- 💬AI Researcher & Data Scientist  
+Always up for a new challenge and creative journey.  
 
 - 📫 How to reach me **lxnx.kiki@gmail.com**
 
@@ -14,19 +15,18 @@
 <a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxnx_hxnxxl" height="30" width="40" /></a>
 <a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kiki_hxnxxl" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">
+  <a href="https://developer.apple.com/documentation" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
   </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
@@ -66,9 +66,9 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-<a href="https://brandfetch.com/gradio.app" target="_blank" rel="noreferrer">
-  <img src="https://logo.clearbit.com/gradio.app" alt="gradio-clearbit" width="40" height="40"/>
-</a>
+  <a href="https://www.gradio.app/" target="_blank" rel="noreferrer">
+    <img src="https://logo.clearbit.com/gradio.app" alt="gradio-clearbit" width="40" height="40"/>
+  </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
@@ -100,13 +100,13 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="premierepro" width="40" height="40"/>
   </a>
-  <a href="https://github.com/boundary/wireshark/blob/master/image/wsicon128.png?raw=true" target="_blank" rel="noreferrer">
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/boundary/wireshark/raw/master/image/wsicon128.png" alt="wireshark" width="40" height="40"/>
   </a>
 </p>
