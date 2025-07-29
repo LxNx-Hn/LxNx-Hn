@@ -113,7 +113,7 @@ Always up for a new challenge and creative journey.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnx-hn&show_icons=true&locale=en&layout=compact" alt="lxnx-hn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en" alt="lxnx-hn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en&include_all_commits=true" alt="lxnx-hn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxnx-hn&" alt="lxnx-hn" /></p>
 
