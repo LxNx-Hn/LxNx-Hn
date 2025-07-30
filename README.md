@@ -117,6 +117,4 @@ Always up for a new challenge and creative journey.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxnx-hn&" alt="lxnx-hn" /></p>
 
-<!-- 3D 잔디 이미지 -->
-![](./profile-3d-contrib/profile-gitblock.svg)
 
