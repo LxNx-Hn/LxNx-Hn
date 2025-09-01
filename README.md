@@ -77,7 +77,7 @@ Always up for a new challenge and creative journey.
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
   <a href="https://docs.microsoft.com/en-us/windows/wsl/" target="_blank"><img src="https://img.shields.io/badge/-WSL2-4D4D4D?style=flat&logo=linux&logoColor=white"/></a>
   <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
-  <a href="https://www.runpod.io/" target="_blank"><img src="https://img.shields.io/badge/-Runpod-2B5DDB?style=flat&logo=pytorch"/></a>
+  <a href="https://www.runpod.io/" target="_blank"><img src="https://img.shields.io/badge/Runpod-6366F1?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <a href="https://yaml.org/" target="_blank"><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/></a>
 </p>
 
