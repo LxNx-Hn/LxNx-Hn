@@ -64,6 +64,7 @@ Always up for a new challenge and creative journey.
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
+  <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/-Miro-FFCD00?style=flat&logo=Miro&logoColor=black"/></a>
 </p>
 
 <!-- Data & Infra -->
