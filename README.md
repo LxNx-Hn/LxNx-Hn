@@ -91,8 +91,8 @@ Always up for a new challenge and creative journey.
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnx-hn&show_icons=true&locale=en&layout=compact" alt="lxnx-hn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnx-hn&amp;layout=compact&amp;cache_seconds=86400" alt="lxnx-hn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en&include_all_commits=true" alt="lxnx-hn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&amp;show_icons=true&amp;count_private=true&amp;cache_seconds=86400" alt="lxnx-hn" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en&include_all_commits=true" alt="lxnx-hn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&amp;show_icons=true&amp;count_private=true&amp;cache_seconds=86400" alt="lxnx-hn" /></p>
