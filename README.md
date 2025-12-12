@@ -12,8 +12,8 @@ Always up for a new challenge and creative journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxnx_hxnxxl" height="30" width="40" /></a>
-<a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kiki_hxnxxl" height="30" width="40" /></a>
+<a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ins"/></a>
+<a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discor"/></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <!-- Languages -->
@@ -39,7 +39,7 @@ Always up for a new challenge and creative journey.
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
-  <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat&logo=data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNODguNSA0MC4zYy0uOC0yLTIuNC0zLjUtNC4zLTQuM2wtMTMuNy01LjZMODIuNiA4Yy40LS44LjMtMS44LS40LTIuNC0uNy0uNi0xLjctLjctMi41LS4yTDUzIDIzLjJsLS4xLS4xVjE3YzAtNi42LTUuNC0xMi0xMi0xMi0xLjEgMC0yIC45LTIgMnYxNC4xYy0xNS42IDEtMjggMTQuMS0yOCAyOS45djQyYzAgMS4xLjkgMiAyIDJoNThjMS4xIDAgMi0uOSAyLTIgMC0xMS41LTguOC0yMC45LTIwLTIxLjlWNTcuN2MxLjYtLjkgMy4xLTIuMSA0LjMtMy42bDExLjMgNC42YzMuNSAxLjQgNy4zIDEuNCAxMC43IDAgMy41LTEuNCA2LjEtNC4xIDcuNi03LjZsMS45LTQuNmMuNy0yLjEuNy00LjItLjItNi4yek03NS4yIDEzLjFsLTguNSAxNS43LTkuMy0zLjggMTcuOC0xMS45em05LjcgMzEuOEw4MyA0OS41Yy0xIDIuNS0yLjkgNC40LTUuNCA1LjQtMi41IDEtNS4yIDEtNy43IDBsLTEyLjctNS4yYy0uOS0uNC0xLjkgMC0yLjUuOC0yIDMuMi01LjYgNS4xLTkuMyA0LjktNS4zLS4yLTkuNy00LjUtMTAuMS05LjgtLjQtNS43IDMuNy0xMC42IDkuNC0xMS4yIDEuMS0uMSAxLjktMS4xIDEuOC0yLjItLjEtMS4xLTEuMS0xLjktMi4yLTEuOC03LjguOC0xMy41IDcuNi0xMi45IDE1LjQuNSA3LjMgNi42IDEzLjIgMTMuOSAxMy41IDEuMiAwIDIuNC0uMSAzLjYtLjN2MTRjMCAxLjEuOSAyIDIgMiA5LjIgMCAxNi45IDcgMTcuOSAxNmgtNTRWNTFjMC0xNC4zIDExLjctMjYgMjYtMjYgMS4xIDAgMi0uOSAyLTJWOS4zYzMuNC45IDYgNCA2IDcuN3Y3LjRjMCAuOC41IDEuNSAxLjIgMS45bDMyLjYgMTMuNGMxIC40IDEuOCAxLjIgMi4yIDIuMi41LjkuNSAyIC4xIDN6Ii8+PC9zdmc+"/></a>
+  <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat&logo=data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDo"/></a>
   <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
@@ -71,6 +71,8 @@ Always up for a new challenge and creative journey.
 <h4>Data & Infra</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/-ChromaDB-6f42c1?style=flat&logo=chromadb&logoColor=white"/></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
@@ -85,7 +87,7 @@ Always up for a new challenge and creative journey.
 <!-- Others -->
 <h4>Others</h4>
 <p>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/-PremierPro-9999FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBkYXRhLW5hbWU9IkxheWVyIDEiIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48ZyBkYXRhLW5hbWU9IlBob3RvIFN1cmZhY2UiPjxyZWN0IHdpZHRoPSIyNDAiIGhlaWdodD0iMjMyIiB4PSI4IiB5PSIxMiIgZmlsbD0iIzAwMDA1YiIgZGF0YS1uYW1lPSJPdXRsaW5lIG5vIHNoYWRvdyIgcng9IjQyIi8+PC9nPjxwYXRoIGZpbGw9IiM5OWYiIGQ9Ik02MCAxODIuODhWNzRhMSAxIDAgMDExLjEyLTEuMTJDNjkuMjMgNzIuNjcgNzguOCA3MiA5MS4yOCA3MmMxNC43MiAwIDI1LjUyIDMuMDcgMzIuNCA5LjY4QTMyLjYgMzIuNiAwIDAxMTM0IDEwNi4xNnEwIDE4LjA5LTEyLjggMjYuODhUODkgMTQxLjg0TDgwIDE0MnY0MC43MkExLjEzIDEuMTMgMCAwMTc4LjcyIDE4NEg2MS4yOEM2MC40MyAxODQgNjAgMTgzLjYzIDYwIDE4Mi44OHpNODAgODcuNjJWMTI3czQuNTYtLjE4IDEwLS4xOHExMC43MyAwIDE3LjM2LTQuNzJUMTE0IDEwNi42NHEwLTkuNDQtNS44NC0xNC41NlQ5MS4yOCA4N2MtMS44MSAwLTMuNiAwLTUuMzYuMDhzLTMuMi4wOC00LjMyLjA4Uzc5Ljg4IDg3LjEyIDgwIDg3LjYyek0xNDkgMTA0aDE3YTEuODQgMS44NCAwIDAxMS44MyAxLjMzQTIzLjQgMjMuNCAwIDAxMTcwIDExNGM2LjQyLTguMyAxNC4zMi0xMiAyNC44NC0xMmExIDEgMCAwMTEuMTYgMS4xNnYxNy42NmMwIC44OS0uNDQgMS4yNy0xLjMzIDEuMTYtOS42My0uNTUtMTcuMjcuNzEtMjIuOCA2LjI0QTUuMjQgNS4yNCAwIDAwMTcwIDEzMnY1MC44NGMwIC43Ny0uNDQgMS4xNi0xLjMzIDEuMTZIMTUxLjQ5Yy0xIDAtMS40OS0uNDQtMS40OS0xLjMzVjEyNmMwLTEzLjQyLTEtMTUuMzMtMi0yMC44NEMxNDcuODkgMTA0LjM5IDE0OC4yMiAxMDQgMTQ5IDEwNHoiLz48L3N2Zz4=" alt="PremierPro"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/-PremierPro-9999FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDo"/></a>
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
 </p>
 
@@ -93,6 +95,4 @@ Always up for a new challenge and creative journey.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en&include_all_commits=true" alt="lxnx-hn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxnx-hn&" alt="lxnx-hn" /></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&locale=en&include_all_commits=true" alt="lxnx-hn" /></p>
