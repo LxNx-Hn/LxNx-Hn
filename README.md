@@ -12,8 +12,8 @@ Always up for a new challenge and creative journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ins"/></a>
-<a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discor"/></a>
+<a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxnx_hxnxxl" height="30" width="40" /></a>
+<a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kiki_hxnxxl" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <!-- Languages -->
@@ -87,10 +87,10 @@ Always up for a new challenge and creative journey.
 <!-- Others -->
 <h4>Others</h4>
 <p>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/-PremierPro-9999FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDo"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/-PremierPro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnx-hn&layout=compact&cache_seconds=86400" alt="lxnx-hn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnx-hn&layout=compact&cache_seconds=86400" alt="lxnx-hn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&count_private=true&cache_seconds=86400" alt="lxnx-hn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&include_all_commits=true&cache_seconds=86400" alt="lxnx-hn" /></p>
