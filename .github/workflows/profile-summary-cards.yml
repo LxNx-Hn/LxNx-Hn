@@ -2,13 +2,15 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 15 * * *"  # KST 00:00 (UTC+9)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    env:
+      TZ: Asia/Seoul
 
     steps:
       - uses: actions/checkout@v4
