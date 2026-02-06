@@ -39,7 +39,7 @@ Always up for a new challenge and creative journey.
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
-  <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat&logo=data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDo"/></a>
+  <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat"/></a>
   <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
@@ -48,8 +48,8 @@ Always up for a new challenge and creative journey.
   <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FCC63F?style=flat&logo=huggingface&logoColor=black"/></a>
   <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/-Transformers-FFD21A?style=flat"/></a>
   <a href="https://www.gradio.app/" target="_blank"><img src="https://img.shields.io/badge/-Gradio-3F6E98?style=flat&logo=gradio&logoColor=white"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Seaborn-0095A4?style=flat"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Seaborn-0095A4?style=flat&logo=seaborn&logoColor=white"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/></a>
 </p>
 
 <!-- Development & Collaboration Tools -->
@@ -91,6 +91,15 @@ Always up for a new challenge and creative journey.
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnx-hn&layout=compact&cache_seconds=86400" alt="lxnx-hn" /></p>
+<!-- GitHub Profile Summary Cards -->
+<p><img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile-details" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnx-hn&show_icons=true&include_all_commits=true&cache_seconds=86400" alt="lxnx-hn" /></p>
+<p>
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="repos-per-language" width="400" />
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="most-commit-language" width="400" />
+</p>
+
+<p>
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/3-stats.svg" alt="stats" width="400" />
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/4-productive-time.svg" alt="productive-time" width="400" />
+</p>
