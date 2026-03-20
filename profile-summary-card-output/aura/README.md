@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
