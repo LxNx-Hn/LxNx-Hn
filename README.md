@@ -22,6 +22,8 @@ Always up for a new challenge and creative journey.
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
   <a href="https://julialang.org/" target="_blank"><img src="https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/></a>
   <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white"/></a>
   <a href="https://developer.apple.com/documentation" target="_blank"><img src="https://img.shields.io/badge/-ObjectiveC-2D3A7E?style=flat&logo=apple&logoColor=white"/></a>
@@ -36,17 +38,36 @@ Always up for a new challenge and creative journey.
 <h4>Frameworks & Libraries</h4>
 <p>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
+  <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/-Zustand-433E38?style=flat"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
+  <a href="https://docs.pydantic.dev/" target="_blank"><img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/></a>
+  <a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat"/></a>
+  <a href="https://alembic.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/-Alembic-6BA81E?style=flat"/></a>
   <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat"/></a>
   <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
+  <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/></a>
+  <a href="https://www.statsmodels.org/" target="_blank"><img src="https://img.shields.io/badge/-Statsmodels-4051B5?style=flat"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/></a>
+  <a href="https://xgboost.ai/" target="_blank"><img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/></a>
+  <a href="https://github.com/Unity-Technologies/ml-agents" target="_blank"><img src="https://img.shields.io/badge/-Unity%20ML--Agents-000000?style=flat&logo=unity&logoColor=white"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FCC63F?style=flat&logo=huggingface&logoColor=black"/></a>
   <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/-Transformers-FFD21A?style=flat"/></a>
+  <a href="https://www.sbert.net/" target="_blank"><img src="https://img.shields.io/badge/-Sentence%20Transformers-FFD21A?style=flat"/></a>
+  <a href="https://docs.ragas.io/" target="_blank"><img src="https://img.shields.io/badge/-RAGAS-6C63FF?style=flat"/></a>
+  <a href="https://geopandas.org/" target="_blank"><img src="https://img.shields.io/badge/-GeoPandas-139C5A?style=flat&logo=geopandas&logoColor=white"/></a>
+  <a href="https://shapely.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/-Shapely-3D8FC6?style=flat"/></a>
+  <a href="https://rasterio.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/-Rasterio-2D6A4F?style=flat"/></a>
+  <a href="https://osmnx.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/-OSMnx-7EBC6F?style=flat"/></a>
+  <a href="https://networkx.org/" target="_blank"><img src="https://img.shields.io/badge/-NetworkX-1F6E8C?style=flat"/></a>
   <a href="https://www.gradio.app/" target="_blank"><img src="https://img.shields.io/badge/-Gradio-3F6E98?style=flat&logo=gradio&logoColor=white"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Seaborn-0095A4?style=flat&logo=seaborn&logoColor=white"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/></a>
@@ -62,6 +83,8 @@ Always up for a new challenge and creative journey.
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
   <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/></a>
+  <a href="https://vitest.dev/" target="_blank"><img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
   <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/-Miro-FFCD00?style=flat&logo=Miro&logoColor=black"/></a>
@@ -71,10 +94,14 @@ Always up for a new challenge and creative journey.
 <h4>Data & Infra</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></a>
   <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/-ChromaDB-6f42c1?style=flat&logo=chromadb&logoColor=white"/></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/ecs/" target="_blank"><img src="https://img.shields.io/badge/-ECR%20%2F%20ECS%20%2F%20ALB-FF9900?style=flat&logo=amazonwebservices&logoColor=white"/></a>
+  <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
   <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://img.shields.io/badge/-DockerCompose-2496ED?style=flat"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
