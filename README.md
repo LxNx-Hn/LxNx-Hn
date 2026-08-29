@@ -1,42 +1,105 @@
-# 문종건
+<h1 align="center">Hi, I'm Hn</h1>
+<h3 align="center">a trainee dev</h3>
 
-일단 해보고, 왜 안 되는지는 끝까지 보는 개발자입니다.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lxnx-hn&label=Profile%20views&color=0e75b6&style=flat" alt="lxnx-hn" /> </p>
 
-공식 문서를 보다가 생각보다 할 만하면 직접 짜봅니다. 모르는 건 모른다고 적어두고, AI가 만든 코드는 직접 다시 읽고 돌립니다. 잘됐다는 말보다 어떤 조건에서 됐는지, 아직 확인하지 못한 건 뭔지를 코드·테스트·로그로 남기려고 합니다.
+- 💬AI Researcher & Data Scientist  
+Always up for a new challenge and creative journey.  
 
-> 왜 안 될까 → 기준점을 잡고 → 직접 돌려보고 → 더 간단한 코드가 있는지 다시 보기
+- 📫 How to reach me **lxnx.kiki@gmail.com**
 
-예전 코드 주석에서 가져온 표현을, 제가 문제를 다룰 때 따르는 순서로 정리했습니다.
+- ⚡ Fun fact **My MBTI is ENFJ**
 
-[Portfolio](https://lxnx-hn.github.io/) · [GitHub](https://github.com/LxNx-Hn) · [Email](mailto:lxnx.kiki@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxnx_hxnxxl" height="30" width="40" /></a>
+<a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kiki_hxnxxl" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<!-- Languages -->
+<h4>Languages</h4>
+<p>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
+  <a href="https://julialang.org/" target="_blank"><img src="https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white"/></a>
+  <a href="https://developer.apple.com/documentation" target="_blank"><img src="https://img.shields.io/badge/-ObjectiveC-2D3A7E?style=flat&logo=apple&logoColor=white"/></a>
+  <a href="https://www.lua.org/" target="_blank"><img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+  <a href="https://mermaid-js.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Mermaid-00997B?style=flat&logo=mermaid&logoColor=white"/></a>
+</p>
 
-## 지금까지 손댄 것들
+<!-- Frameworks & Libraries -->
+<h4>Frameworks & Libraries</h4>
+<p>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
+  <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat"/></a>
+  <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FCC63F?style=flat&logo=huggingface&logoColor=black"/></a>
+  <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/-Transformers-FFD21A?style=flat"/></a>
+  <a href="https://www.gradio.app/" target="_blank"><img src="https://img.shields.io/badge/-Gradio-3F6E98?style=flat&logo=gradio&logoColor=white"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Seaborn-0095A4?style=flat&logo=seaborn&logoColor=white"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/></a>
+</p>
 
-| Project | What I worked on |
-| --- | --- |
-| [동넷](https://github.com/LxNx-Hn/KT-10) | TMAP에 빠진 부산 직행 버스를 BIMS로 보완하고, 공급원마다 달랐던 경로를 다시 합쳤습니다. 확인할 수 없는 시간과 geometry는 0이나 실제 경로인 것처럼 만들지 않았습니다. |
-| [동성로 창업지원 RAG 챗봇](https://github.com/LxNx-Hn/chatbot-with-kt-dgucenter) | 질문 category와 LLM 분류를 대조한 뒤 맞는 데이터 source로 보내는 흐름을 잡고, FastAPI부터 Cloud Run·Netlify까지 이어 붙였습니다. |
-| [Hot's POD](https://github.com/LxNx-Hn/Hot-s-Pod) | 벡터 검색 다음에 RDB filtering을 붙이고, filtering 뒤 사라진 similarity 순서를 다시 복원했습니다. 댓글·권한·React Query 상태도 서버와 맞췄습니다. |
-| [M_RAG](https://github.com/LxNx-Hn/M_RAG) | RAGAS의 결측 평가 셀은 0으로 대체하지 않고 complete-case·null=0·null=1로 민감도를 나눠 봤습니다. penalty_additive SCD v1의 순효과가 없다는 결과와 reference_scd의 한국어 준수 개선, 아직 확정할 수 없는 RAG 품질 효과도 따로 기록했습니다. |
-| [AI_FinalTerm](https://github.com/LxNx-Hn/AI_FinalTerm) | 학습량을 늘리기 전에 50K 로그를 보고 action space를 MultiDiscrete로 바꾸면서 mask를 새 branch 구조에 맞췄고, 다음 실험에서 reward farming을 제거했습니다. 대표 3개 커밋은 모두 Claude Opus 4.8 공동작성이고, 구조 개선과 실제 성능 개선은 따로 판단했습니다. |
+<!-- Development & Collaboration Tools -->
+<h4>Development & Collaboration Tools</h4>
+<p>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
+  <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/-Miro-FFCD00?style=flat&logo=Miro&logoColor=black"/></a>
+</p>
 
-## 일하는 방식
+<!-- Data & Infra -->
+<h4>Data & Infra</h4>
+<p>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/-ChromaDB-6f42c1?style=flat&logo=chromadb&logoColor=white"/></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+  <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://img.shields.io/badge/-DockerCompose-2496ED?style=flat"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://docs.microsoft.com/en-us/windows/wsl/" target="_blank"><img src="https://img.shields.io/badge/-WSL2-4D4D4D?style=flat&logo=linux&logoColor=white"/></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.runpod.io/" target="_blank"><img src="https://img.shields.io/badge/Runpod-6366F1?style=flat&logo=pytorch&logoColor=white"/></a>
+  <a href="https://yaml.org/" target="_blank"><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/></a>
+</p>
 
-1. 왜 안 되는지부터 적습니다.
-2. input·output·state로 쪼개고, 정상과 실패를 가를 기준점을 잡습니다.
-3. 공식 문서를 보고 직접 붙여봅니다.
-4. AI에는 입출력·변경 범위·검증 기준을 먼저 정한 단위로 맡깁니다.
-5. test·build·API·log·실제 데이터로 확인하고, 측정하지 않은 값은 0으로 만들지 않습니다.
+<!-- Others -->
+<h4>Others</h4>
+<p>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/-PremierPro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
+</p>
 
-Copilot이나 Claude 공동작성 이력이 있는 커밋은 단독 구현과 섞지 않고 따로 적습니다.
+<!-- GitHub Profile Summary Cards -->
+<p><img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile-details" /></p>
 
-## 공개 코드에서 확인되는 스택
+<p>
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="repos-per-language" width="400" />
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="most-commit-language" width="400" />
+</p>
 
-- **Languages**: Python · TypeScript · JavaScript · C#
-- **Backend**: FastAPI
-- **Frontend**: React · Vite · TanStack Query
-- **AI / Data**: PyTorch · Transformers · Sentence Transformers · ChromaDB · RAGAS · Unity ML-Agents · PPO
-- **Database**: PostgreSQL · MariaDB
-- **Cloud / Ops**: Docker · GitHub Actions · AWS ECS · GCP Cloud Run · Secret Manager · Netlify
-
-배지 개수를 늘리기보다, 공개 저장소에서 실제로 확인되는 기술만 남겼습니다.
+<p>
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/3-stats.svg" alt="stats" width="400" />
+  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/4-productive-time.svg" alt="productive-time" width="400" />
+</p>
