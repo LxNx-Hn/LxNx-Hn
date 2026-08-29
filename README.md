@@ -34,9 +34,7 @@ Always up for a new challenge and creative journey.
 <h4>Frameworks & Libraries</h4>
 <p>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
-  <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/-Zustand-433E38?style=flat"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
   <a href="https://docs.pydantic.dev/" target="_blank"><img src="https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/></a>
   <a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat"/></a>
@@ -76,8 +74,6 @@ Always up for a new challenge and creative journey.
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
   <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/></a>
-  <a href="https://vitest.dev/" target="_blank"><img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
   <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/-Miro-FFCD00?style=flat&logo=Miro&logoColor=black"/></a>
