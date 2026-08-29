@@ -1,33 +1,36 @@
 # 문종건
 
-문제를 작은 단위로 구조화하고, 데이터·AI·Cloud를 조합해 실제로 동작하는 서비스 형태까지 구현합니다.
+일단 해보고, 왜 안 되는지는 끝까지 보는 개발자입니다.
 
-설계와 판단은 직접 하고, 범위가 명확한 구현에는 AI를 활용한 뒤 코드·테스트·로그를 다시 확인합니다.
+공식 문서를 보다가 생각보다 할 만하면 직접 짜봅니다. 모르는 건 모른다고 적어두고, AI가 만든 코드는 직접 다시 읽고 돌립니다. 잘됐다는 말보다 어떤 조건에서 됐는지, 아직 확인하지 못한 건 뭔지를 코드·테스트·로그로 남기려고 합니다.
+
+> 왜 안 될까 → 기준점을 잡고 → 직접 돌려보고 → 더 간단한 코드가 있는지 다시 보기
+
+예전 코드 주석에서 가져온 표현을, 제가 문제를 다룰 때 따르는 순서로 정리했습니다.
 
 [Portfolio](https://lxnx-hn.github.io/) · [GitHub](https://github.com/LxNx-Hn) · [Email](mailto:lxnx.kiki@gmail.com)
 
-## Selected projects
+## 지금까지 손댄 것들
 
 | Project | What I worked on |
 | --- | --- |
-| [동넷](https://github.com/LxNx-Hn/KT-10) | 부산 이동취약자 맞춤 경로 추천, TMAP 누락 버스의 BIMS 보완, 다중 공급원 경로 병합, 후보 재평가와 철도 데이터 정합성 |
-| [동성로 창업지원 RAG 챗봇](https://github.com/LxNx-Hn/chatbot-with-kt-dgucenter) | 질문 category와 데이터 source를 연결하는 RAG 상담 구조, FastAPI–React 연결, Cloud Run·Netlify 배포와 secret·비용 설정 |
-| [Hot's POD](https://github.com/LxNx-Hn/Hot-s-Pod) | Keyword·Vector·RDB 하이브리드 검색, similarity 정렬 복원, 계층형 댓글 transaction, React Query 상태 동기화 |
-| [M_RAG](https://github.com/LxNx-Hn/M_RAG) | 한국어 질문·영어 논문 RAG에서 HyDE·CAD·SCD 비교, null 결과 보존, RAGAS 복구와 실험 provenance 관리 |
-| [AI_FinalTerm](https://github.com/LxNx-Hn/AI_FinalTerm) | Unity ML-Agents PPO의 action space·reward·action mask를 50K 학습 로그와 코드로 반복 개선 |
+| [동넷](https://github.com/LxNx-Hn/KT-10) | TMAP에 빠진 부산 직행 버스를 BIMS로 보완하고, 공급원마다 달랐던 경로를 다시 합쳤습니다. 확인할 수 없는 시간과 geometry는 0이나 실제 경로인 것처럼 만들지 않았습니다. |
+| [동성로 창업지원 RAG 챗봇](https://github.com/LxNx-Hn/chatbot-with-kt-dgucenter) | 질문 category와 LLM 분류를 대조한 뒤 맞는 데이터 source로 보내는 흐름을 잡고, FastAPI부터 Cloud Run·Netlify까지 이어 붙였습니다. |
+| [Hot's POD](https://github.com/LxNx-Hn/Hot-s-Pod) | 벡터 검색 다음에 RDB filtering을 붙이고, filtering 뒤 사라진 similarity 순서를 다시 복원했습니다. 댓글·권한·React Query 상태도 서버와 맞췄습니다. |
+| [M_RAG](https://github.com/LxNx-Hn/M_RAG) | RAGAS의 결측 평가 셀은 0으로 대체하지 않고 complete-case·null=0·null=1로 민감도를 나눠 봤습니다. penalty_additive SCD v1의 순효과가 없다는 결과와 reference_scd의 한국어 준수 개선, 아직 확정할 수 없는 RAG 품질 효과도 따로 기록했습니다. |
+| [AI_FinalTerm](https://github.com/LxNx-Hn/AI_FinalTerm) | 학습량을 늘리기 전에 50K 로그를 보고 action space를 MultiDiscrete로 바꾸면서 mask를 새 branch 구조에 맞췄고, 다음 실험에서 reward farming을 제거했습니다. 대표 3개 커밋은 모두 Claude Opus 4.8 공동작성이고, 구조 개선과 실제 성능 개선은 따로 판단했습니다. |
 
-## How I work
+## 일하는 방식
 
-1. 사용자의 문제와 제약조건을 먼저 정의합니다.
-2. input·output·state·interface를 나눠 작은 단위로 설계합니다.
-3. 범위가 명확한 반복 구현은 AI에 위임합니다.
-4. 생성된 코드의 상태 변화와 side effect를 직접 읽습니다.
-5. test·build·API·log·실제 데이터로 결과를 확인합니다.
-6. 문제가 남은 함수만 다시 좁혀 수정합니다.
+1. 왜 안 되는지부터 적습니다.
+2. input·output·state로 쪼개고, 정상과 실패를 가를 기준점을 잡습니다.
+3. 공식 문서를 보고 직접 붙여봅니다.
+4. AI에는 입출력·변경 범위·검증 기준을 먼저 정한 단위로 맡깁니다.
+5. test·build·API·log·실제 데이터로 확인하고, 측정하지 않은 값은 0으로 만들지 않습니다.
 
-AI 또는 bot이 작성에 참여한 커밋은 직접 구현과 섞지 않고 공동작성 이력을 구분해 설명합니다.
+Copilot이나 Claude 공동작성 이력이 있는 커밋은 단독 구현과 섞지 않고 따로 적습니다.
 
-## Stack used in public projects
+## 공개 코드에서 확인되는 스택
 
 - **Languages**: Python · TypeScript · JavaScript · C#
 - **Backend**: FastAPI
@@ -36,4 +39,4 @@ AI 또는 bot이 작성에 참여한 커밋은 직접 구현과 섞지 않고 �
 - **Database**: PostgreSQL · MariaDB
 - **Cloud / Ops**: Docker · GitHub Actions · AWS ECS · GCP Cloud Run · Secret Manager · Netlify
 
-위 목록은 공개 저장소의 코드와 본인 작성 또는 명시적 공동작성 커밋에서 확인되는 기술만 정리했습니다.
+배지 개수를 늘리기보다, 공개 저장소에서 실제로 확인되는 기술만 남겼습니다.
