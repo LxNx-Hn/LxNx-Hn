@@ -1,105 +1,39 @@
-<h1 align="center">Hi, I'm Hn</h1>
-<h3 align="center">a trainee dev</h3>
+# 문종건
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lxnx-hn&label=Profile%20views&color=0e75b6&style=flat" alt="lxnx-hn" /> </p>
+문제를 작은 단위로 구조화하고, 데이터·AI·Cloud를 조합해 실제로 동작하는 서비스 형태까지 구현합니다.
 
-- 💬AI Researcher & Data Scientist  
-Always up for a new challenge and creative journey.  
+설계와 판단은 직접 하고, 범위가 명확한 구현에는 AI를 활용한 뒤 코드·테스트·로그를 다시 확인합니다.
 
-- 📫 How to reach me **lxnx.kiki@gmail.com**
+[Portfolio](https://lxnx-hn.github.io/) · [GitHub](https://github.com/LxNx-Hn) · [Email](mailto:lxnx.kiki@gmail.com)
 
-- ⚡ Fun fact **My MBTI is ENFJ**
+## Selected projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lxnx_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxnx_hxnxxl" height="30" width="40" /></a>
-<a href="https://discord.gg/kiki_hxnxxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kiki_hxnxxl" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<!-- Languages -->
-<h4>Languages</h4>
-<p>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://julialang.org/" target="_blank"><img src="https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white"/></a>
-  <a href="https://developer.apple.com/documentation" target="_blank"><img src="https://img.shields.io/badge/-ObjectiveC-2D3A7E?style=flat&logo=apple&logoColor=white"/></a>
-  <a href="https://www.lua.org/" target="_blank"><img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
-  <a href="https://mermaid-js.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Mermaid-00997B?style=flat&logo=mermaid&logoColor=white"/></a>
-</p>
+| Project | What I worked on |
+| --- | --- |
+| [동넷](https://github.com/LxNx-Hn/KT-10) | 부산 이동취약자 맞춤 경로 추천, TMAP 누락 버스의 BIMS 보완, 다중 공급원 경로 병합, 후보 재평가와 철도 데이터 정합성 |
+| [동성로 창업지원 RAG 챗봇](https://github.com/LxNx-Hn/chatbot-with-kt-dgucenter) | 질문 category와 데이터 source를 연결하는 RAG 상담 구조, FastAPI–React 연결, Cloud Run·Netlify 배포와 secret·비용 설정 |
+| [Hot's POD](https://github.com/LxNx-Hn/Hot-s-Pod) | Keyword·Vector·RDB 하이브리드 검색, similarity 정렬 복원, 계층형 댓글 transaction, React Query 상태 동기화 |
+| [M_RAG](https://github.com/LxNx-Hn/M_RAG) | 한국어 질문·영어 논문 RAG에서 HyDE·CAD·SCD 비교, null 결과 보존, RAGAS 복구와 실험 provenance 관리 |
+| [AI_FinalTerm](https://github.com/LxNx-Hn/AI_FinalTerm) | Unity ML-Agents PPO의 action space·reward·action mask를 50K 학습 로그와 코드로 반복 개선 |
 
-<!-- Frameworks & Libraries -->
-<h4>Frameworks & Libraries</h4>
-<p>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
-  <a href="https://www.uvicorn.org/" target="_blank"><img src="https://img.shields.io/badge/-Uvicorn-FF69B4?style=flat"/></a>
-  <a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FCC63F?style=flat&logo=huggingface&logoColor=black"/></a>
-  <a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/-Transformers-FFD21A?style=flat"/></a>
-  <a href="https://www.gradio.app/" target="_blank"><img src="https://img.shields.io/badge/-Gradio-3F6E98?style=flat&logo=gradio&logoColor=white"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/-Seaborn-0095A4?style=flat&logo=seaborn&logoColor=white"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/></a>
-</p>
+## How I work
 
-<!-- Development & Collaboration Tools -->
-<h4>Development & Collaboration Tools</h4>
-<p>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
-  <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
-  <a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/-Miro-FFCD00?style=flat&logo=Miro&logoColor=black"/></a>
-</p>
+1. 사용자의 문제와 제약조건을 먼저 정의합니다.
+2. input·output·state·interface를 나눠 작은 단위로 설계합니다.
+3. 범위가 명확한 반복 구현은 AI에 위임합니다.
+4. 생성된 코드의 상태 변화와 side effect를 직접 읽습니다.
+5. test·build·API·log·실제 데이터로 결과를 확인합니다.
+6. 문제가 남은 함수만 다시 좁혀 수정합니다.
 
-<!-- Data & Infra -->
-<h4>Data & Infra</h4>
-<p>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/-ChromaDB-6f42c1?style=flat&logo=chromadb&logoColor=white"/></a>
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
-  <a href="https://docs.docker.com/compose/" target="_blank"><img src="https://img.shields.io/badge/-DockerCompose-2496ED?style=flat"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>
-  <a href="https://docs.microsoft.com/en-us/windows/wsl/" target="_blank"><img src="https://img.shields.io/badge/-WSL2-4D4D4D?style=flat&logo=linux&logoColor=white"/></a>
-  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
-  <a href="https://www.runpod.io/" target="_blank"><img src="https://img.shields.io/badge/Runpod-6366F1?style=flat&logo=pytorch&logoColor=white"/></a>
-  <a href="https://yaml.org/" target="_blank"><img src="https://img.shields.io/badge/-YAML-CB171E?style=flat&logo=yaml&logoColor=white"/></a>
-</p>
+AI 또는 bot이 작성에 참여한 커밋은 직접 구현과 섞지 않고 공동작성 이력을 구분해 설명합니다.
 
-<!-- Others -->
-<h4>Others</h4>
-<p>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/-PremierPro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/></a>
-</p>
+## Stack used in public projects
 
-<!-- GitHub Profile Summary Cards -->
-<p><img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile-details" /></p>
+- **Languages**: Python · TypeScript · JavaScript · C#
+- **Backend**: FastAPI
+- **Frontend**: React · Vite · TanStack Query
+- **AI / Data**: PyTorch · Transformers · Sentence Transformers · ChromaDB · RAGAS · Unity ML-Agents · PPO
+- **Database**: PostgreSQL · MariaDB
+- **Cloud / Ops**: Docker · GitHub Actions · AWS ECS · GCP Cloud Run · Secret Manager · Netlify
 
-<p>
-  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="repos-per-language" width="400" />
-  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="most-commit-language" width="400" />
-</p>
-
-<p>
-  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/3-stats.svg" alt="stats" width="400" />
-  <img align="center" src="https://raw.githubusercontent.com/LxNx-Hn/LxNx-Hn/main/profile-summary-card-output/default/4-productive-time.svg" alt="productive-time" width="400" />
-</p>
+위 목록은 공개 저장소의 코드와 본인 작성 또는 명시적 공동작성 커밋에서 확인되는 기술만 정리했습니다.
