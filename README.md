@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Hn</h1>
-<h3 align="center">a trainee dev</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxnx-hn&label=Profile%20views&color=0e75b6&style=flat" alt="lxnx-hn" /> </p>
 
-- 💬AI Researcher & Data Scientist  
+- 💬 AI Engineer · RAG / Search / Ranking / RL  
 Always up for a new challenge and creative journey.  
+
+- 🔗 Portfolio **https://lxnx-hn.github.io/**
 
 - 📫 How to reach me **lxnx.kiki@gmail.com**
 
